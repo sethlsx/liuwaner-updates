@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "commit": "7b6b7b56cfd45711eb275f0b1c407a147bc8f255",
-  "version": "7b6b7b5",
-  "sequence": 1791022918,
+  "commit": "565de61f50ec8638b7136dc655be524c8fb8d423",
+  "version": "565de61",
+  "sequence": 1791024537,
   "minShellVersion": 4,
-  "url": "https://raw.githubusercontent.com/sethlsx/liuwaner-updates/main/updates/liuwaner-7b6b7b56cfd45711eb275f0b1c407a147bc8f255.zip",
-  "sha256": "1f8718696a577a2cf914c4217b235653d255cf3084460b4e84548bad7fc5d565",
-  "bytes": 202549,
-  "createdAt": "2026-10-03T10:21:58.000Z"
+  "url": "https://raw.githubusercontent.com/sethlsx/liuwaner-updates/main/updates/liuwaner-565de61f50ec8638b7136dc655be524c8fb8d423.zip",
+  "sha256": "60bcc693c55c7ec114c209fb82b5e26af233e3d578216b0553ceaa824baf5eb9",
+  "bytes": 203479,
+  "createdAt": "2026-10-03T10:48:57.000Z"
 }
